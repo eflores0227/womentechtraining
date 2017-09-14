@@ -1,22 +1,32 @@
 .btn-primary {
-  background-color: red;
+  background-color: #660000;
 }
+
 .btn-group-lg>.btn, .btn-lg {
   border-radius: 0;
+}
+
+.container {
+  color: #a09298
 }
 
 .col-md-4 {
   height: 50px;
 }
 
-.red {
-  background-color: red;
+.charcoal {
+  background-color: #373737;
 }
 
-.green {
-  background-color: green;
+.silk {
+  background-color: #DCD0C0;
 }
 
-.blue {
-  background-color: blue;
+.paleGold {
+  background-color: #C0B283;
+}
+
+body {
+  background-color: #F4F4F4;
+  font-family: 'Encode Sans Condensed', sans-serif;
 }
